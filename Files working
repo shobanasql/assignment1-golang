@@ -73,6 +73,6 @@ func main() {
     fmt.Print(string(data))
 
 }
-$go run main.go
- This is allows to write to a file
+Output:
+This is allows to write to a file
 new data that wasn't there originally

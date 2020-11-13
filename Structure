@@ -6,8 +6,8 @@ type Sal struct {
 
 type Employee struct {
 	FirstName, LastName, Email string
-	Age                        int
-	MonthlySalary              []Salary
+	Age int
+	MonthlySalary[] Sal
 }
 
 func main() {
